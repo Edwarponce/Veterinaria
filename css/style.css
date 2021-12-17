@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   .header {
-    background-image: url("/img/1.jpg");
+    background-image: url("../img/1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -45,7 +45,7 @@
     font-size: 1.5rem;
   }
   .image-hero {
-    background-image: url("/img/2.jpg");
+    background-image: url("../img/2.jpg");
     height: 40vh;
     background-position: center;
     background-size: cover;
